@@ -12,6 +12,7 @@
 
 body {
     font-family:'Comfortaa', cursive;
+    background-image: url("https://images.unsplash.com/photo-1578729370305-131f65fbd716?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1059&q=80");
 
 }
 
@@ -68,6 +69,8 @@ h2 {
 #result {
   font-size: x-large;
   margin: 2rem 0;
+  font-weight: bolder;
+  color:whitesmoke;
 }
 
 /* footer */
